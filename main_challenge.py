@@ -22,4 +22,4 @@ action_page.switch_tab(1)
 print(action_page.extract_text_from_selenium_page())
 action_page.close_tab()
 
-sleep(5)
+sleep(10)
